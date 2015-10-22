@@ -1,0 +1,16 @@
+#wrapper {
+	width: 100%;
+	text-align: center;
+}
+
+#pad {
+	width: 80%;
+	margin: 10px auto;
+	border: solid black 1px;
+}
+
+#dots {
+	border: solid red 1px;
+	margin: 2px;
+	display: inline-block;
+}
