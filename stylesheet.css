@@ -9,8 +9,8 @@
 	border: solid black 1px;
 }
 
-#dots {
-	border: solid red 1px;
-	margin: 2px;
+.dots {
+	background-color: #666;
+	margin: 1px;
 	display: inline-block;
 }
