@@ -6,11 +6,26 @@
 #pad {
 	width: 80%;
 	margin: 10px auto;
-	border: solid black 1px;
 }
 
 .dots {
-	background-color: #666;
+	background-color: #ccc;
 	margin: 1px;
+	float: left;
+}
+
+form {
 	display: inline-block;
+}
+
+#button {
+	display: inline-block;
+	height: 20px;
+	width: 80px;
+	background-color: black;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 5px;
+	text-align: center;
+	cursor: pointer;
 }
